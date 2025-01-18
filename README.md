@@ -9,7 +9,7 @@
 - ⚡ Fun fact: [something fun about you].
 
 ## 🛠️ Technologies & Tools
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=nextdotjs&logoColor=fff)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
