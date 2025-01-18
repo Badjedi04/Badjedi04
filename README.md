@@ -1,21 +1,12 @@
-# Hi there, I'm Prashant Tomar (PT) 👋
+# Hi there, I'm Prashant (PT) 👋
 
 ## 🚀 About Me
 - 🎓 Master's in Computer Science, ODU, April 2024.
-- 💼 9+ years in web solutions, front-end focus.
-- 🛠️ Skills: Python, JavaScript, HTML, CSS, SQL, Node.js, React, MongoDB, Git, Docker.
-- 💼 Technical Support at ODU, Research Assistant at ODU, Network Engineer in India.
-- 📈 Projects: Web Server Design, Public Mood Detection.
+- 💼 9+ years of professional experience.
+- 🛠️ Libraries: Git, REST API, NumPy, pandas, Flask, PyTorch, NLTK, scikit-learn, MVC
+- 🧰 Tools and Platforms: Visual Studio Code, Postman, Apache Server, IntelliJ IDEA, WorkBench, Docker, Figma, Sketch, Tableau, PowerBI
+- 💽 Database/ Operating Systems: MySQL, MongoDB, Windows, Shell Scripting, Linux/Unix
 - ⚡ Fun fact: I love exploring new technologies, building creative web applications, playing chess and solving puzzles on LinkedIn.
-
-### Technologies/ Libraries
-- 🛠️ Git, REST API, NumPy, pandas, Flask, PyTorch, NLTK, scikit-learn, MVC
-
-### Database/ Operating Systems
-- 💽 MySQL, MongoDB, Windows, Shell Scripting, Linux/Unix
-
-### Tools and Platforms
-- 🧰 Visual Studio Code, Postman, Apache Server, IntelliJ IDEA, WorkBench, Docker, Figma, Sketch, Tableau, PowerBI
 
 ### Other Technical Skills
 - 📝 Writing clean modular code, Code reviews and version control Workflows
