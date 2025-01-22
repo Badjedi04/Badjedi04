@@ -1,4 +1,4 @@
-# Hi there, I'm Prashant (PT) 👋
+## Hi there, I'm Prashant (PT) 👋
 
 ## 🚀 About Me
 - 🎓 Master's in Computer Science, ODU, April 2024.
