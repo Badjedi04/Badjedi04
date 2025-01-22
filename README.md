@@ -1,15 +1,3 @@
-# Hi there! 👋
-
-![Profile views](https://komarev.com/ghpvc/?username=Badjedi04&color=blue&style=flat&label=Profile+views)
-
-## Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Badjedi04)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tomar.p@aol.com)
-[![Website](https://img.shields.io/badge/-Website-00A98F?style=flat&logo=internet-explorer&logoColor=white)](https://badjedi04.github.io)
-
-
-
 # Hi there, I'm Prashant (PT) 👋
 
 ## 🚀 About Me
@@ -36,10 +24,13 @@
 ## 🏆 GitHub Achievements
 ![GitHub Foundation](https://img.shields.io/badge/-GitHub%20Foundation-181717?logo=github&logoColor=fff)
 
+![Profile views](https://komarev.com/ghpvc/?username=Badjedi04&color=blue&style=flat&label=Profile+views)
+
 ## 📬 Get in Touch
-- [LinkedIn](https://linkedin.com/in/Badjedi04)
-- [Personal Website](https://badjedi04.github.io)
-- [Email](mailto:tomar.p@aol.com)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Badjedi04)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tomar.p@aol.com)
+[![Website](https://img.shields.io/badge/-Website-00A98F?style=flat&logo=internet-explorer&logoColor=white)](https://badjedi04.github.io)
 
 ---
 
