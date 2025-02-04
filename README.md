@@ -12,14 +12,14 @@
 - 📝 Writing clean modular code, Code reviews and version control Workflows
 
 ## 🛠️ Technologies & Tools
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=fff)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=fff)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=fff)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff)](https://nodejs.org)
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=fff)](https://reactjs.org)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff)](https://www.mongodb.com)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](https://git-scm.com)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff)](https://code.visualstudio.com)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff)](https://expressjs.com)
 
 ## 🏆 GitHub Achievements
 ![GitHub Foundation](https://img.shields.io/badge/-GitHub%20Foundation-181717?logo=github&logoColor=fff)
