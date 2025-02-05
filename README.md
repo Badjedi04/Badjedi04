@@ -20,15 +20,6 @@
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff)](https://expressjs.com)
-!Python
-!D3.js
-!Wireshark
-!Cisco Packet Tracer
-!Checkpoint Firewall-5C0D40?logo=checkpoint&logoColor=fff)
-!Docker
-!AWS
-!TCP/IP
-!OSPF
 
 ---
 
