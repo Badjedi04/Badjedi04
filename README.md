@@ -32,8 +32,8 @@
 [![Checkpoint Firewall](https://img.shields.io/badge/Firewall%20(Checkpoint)-5C0D40?logo=checkpoint&logoColor=fff)](https://www.checkpoint.com)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](https://www.docker.com)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=fff)](https://aws.amazon.com)
-[![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0C6EC1?logo=itv&logoColor=fff)](https://www.cisco.com/c/en/us/solutions/enterprise-networks/tcp-ip.html)
-[![OSPF](https://img.shields.io/badge/OSPF-005D93?logo=itv&logoColor=fff")](https://www.cisco.com/c/en/us/solutions/enterprise-networks/ospf.html)
+[![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0C6EC1?logo=itv&logoColor=fff)](https://www.cisco.com/c/en/us/support/docs/ip/routing-information-protocol-rip/13769-5.html?dtid=osscdc000283#intro)
+[![OSPF](https://img.shields.io/badge/OSPF-005D93?logo=itv&logoColor=fff")](https://www.cisco.com/c/en/us/products/ios-nx-os-software/open-shortest-path-first-ospf/index.html?dtid=osscdc000283)
 
 
 
