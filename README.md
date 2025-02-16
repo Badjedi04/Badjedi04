@@ -36,7 +36,6 @@
 ### **Databases & OS**
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](https://www.mysql.com)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff)](https://www.mongodb.com)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000)](https://www.linux.org)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff)](https://www.microsoft.com/windows)
 
 ### **Tools & Platforms**
