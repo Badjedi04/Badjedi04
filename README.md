@@ -47,37 +47,6 @@
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff)](https://www.tableau.com)
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000)](https://powerbi.microsoft.com)
 
----
-
-## 💼 Work Experience
-
-### **IT Intern** at SEES, ODU  
-*May 2024 – Present*  
-- Developed automation scripts using **Python** and **PowerShell**.
-- Managed **AWS cloud services** and virtual machines.
-- Provided technical support and troubleshooting.
-
-### **Graduate Assistant** at SEES, ODU  
-*May 2023 – May 2024*  
-- Managed IT support tickets using **ServiceNow**.
-- Provided front-line user support and troubleshooting.
-
-### **Graduate Research Assistant** at ITS, ODU  
-*Aug 2022 – Apr 2023*  
-- Processed 1000+ Twitter data links using **Python** and APIs.
-- Built a webpage ranking system using **TF-IDF** and **PageRank**.
-
-### **Network Engineer** at Corporate InfoTech Pvt. Ltd.  
-*Mar 2015 – Jul 2022*  
-- Developed automation scripts in **Python** and **Bash**.
-- Configured firewalls and implemented network monitoring using **Grafana** and **Splunk**.
-
----
-
-## 🏆 Awards
-
-- **Hampton Roads Datathon 2022**: Third place for **Wetlands and Protected Areas** project.
-- **Hampton Roads Datathon 2023**: Third place for **Hampton Roads Wellness Intersectionality Study**.
 
 ---
 
