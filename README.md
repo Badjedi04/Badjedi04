@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 - 🎓 **Master's in Computer Science**, Old Dominion University, GPA: 3.85 (Expected May 2024).
-- 💼 **9+ years** of professional experience in software development, network engineering, and IT support.
+- 💼 **9+ years** of professional experience in software development and network engineering.
 - 🌐 Passionate about building **scalable, efficient, and user-centric web applications**.
 - 🛠️ Proficient in **React, Node.js, JavaScript, Python, and data visualization tools** like D3.js and Vega-Lite.
 - ☁️ Experienced in **cloud computing (AWS)**, **DevOps practices**, and **API development**.
