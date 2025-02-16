@@ -1,49 +1,85 @@
-## Hi there, I'm Prashant (PT) 👋
+# Hi there, I'm Prashant (PT) 👋
 
 ## 🚀 About Me
-## About Me
 
-- 🎓 Master's in Computer Science, Old Dominion University, April 2024.
-- 💼 9+ years of professional experience in the tech industry.
-- 🛠️ Libraries: Git, REST API, NumPy, Pandas, Flask, PyTorch, NLTK, Scikit-learn, MVC
-- 🧰 Tools and Platforms: Visual Studio Code, Postman, Apache Server, IntelliJ IDEA, WorkBench, Docker, Figma, Sketch, Tableau, PowerBI
-- 💽 Database/Operating Systems: MySQL, MongoDB, Windows, Shell Scripting, Linux/Unix
-- 🌐 Networking: Routing & Switching, VLANs, TCP/IP, BGP, OSPF, VPN, DHCP, NAT, Firewalls (Check Point & Fortinet)
-- 🔒 Security: Network Security, Identity Awareness, IPS/IDS, Anti-malware, URL Filtering
-- 📡 Protocols and Tools: Wireshark, Cisco Packet Tracer, SNMP, NetFlow, Syslog, IPsec, SSL/TLS, Zabbix, Nagios, PRTG, SolarWinds
-- ☁️ Cloud Virtualization: VMware, Docker, AWS Networking
+- 🎓 **Master's in Computer Science**, Old Dominion University, GPA: 3.85 (Expected May 2024).
+- 💼 **9+ years** of professional experience in software development, network engineering, and IT support.
+- 🌐 Passionate about building **scalable, efficient, and user-centric web applications**.
+- 🛠️ Proficient in **React, Node.js, JavaScript, Python, and data visualization tools** like D3.js and Vega-Lite.
+- ☁️ Experienced in **cloud computing (AWS)**, **DevOps practices**, and **API development**.
 - ⚡ Fun fact: I love exploring new technologies, building creative web applications, playing chess, and solving puzzles on LinkedIn.
 
 ---
 
 ## 🛠️ Technologies & Tools
-<!-- Development Badges -->
+
+### **Languages & Frameworks**
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)](https://reactjs.org)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff)](https://nodejs.org)
-[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=fff)](https://reactjs.org)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff)](https://www.mongodb.com)
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](https://git-scm.com)
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff)](https://code.visualstudio.com)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff)](https://expressjs.com)
-<!-- Networking Badges --> 
-[![Wireshark](https://img.shields.io/badge/Wireshark-1676D2?logo=wireshark&logoColor=fff)](https://www.wireshark.org)
-[![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1A77B9?logo=cisco&logoColor=fff)](https://www.netacad.com/courses/cisco-packet-tracer)
-[![Checkpoint Firewall](https://img.shields.io/badge/Firewall%20(Checkpoint)-5C0D40?logo=checkpoint&logoColor=fff)](https://www.checkpoint.com)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=fff)](https://www.mysql.com)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff)](https://tailwindcss.com)
+[![Material-UI](https://img.shields.io/badge/Material%20UI-0081CB?logo=materialui&logoColor=fff)](https://mui.com)
+
+### **Technologies & Libraries**
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](https://git-scm.com)
+[![REST API](https://img.shields.io/badge/REST%20API-FF6F61?logo=rest&logoColor=fff)](https://en.wikipedia.org/wiki/Representational_state_transfer)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff)](https://numpy.org)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](https://pandas.pydata.org)
+[![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=fff)](https://flask.palletsprojects.com)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff)](https://pytorch.org)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff)](https://www.tensorflow.org)
+
+### **Databases & OS**
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](https://www.mysql.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff)](https://www.mongodb.com)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000)](https://www.linux.org)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff)](https://www.microsoft.com/windows)
+
+### **Tools & Platforms**
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff)](https://code.visualstudio.com)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](https://www.docker.com)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=fff)](https://aws.amazon.com)
-[![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0C6EC1?logo=itv&logoColor=fff)](https://www.cisco.com/c/en/us/support/docs/ip/routing-information-protocol-rip/13769-5.html?dtid=osscdc000283#intro)
-[![OSPF](https://img.shields.io/badge/OSPF-005D93?logo=itv&logoColor=fff")](https://www.cisco.com/c/en/us/products/ios-nx-os-software/open-shortest-path-first-ospf/index.html?dtid=osscdc000283)
-
-
-
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff)](https://www.postman.com)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff)](https://www.figma.com)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff)](https://www.tableau.com)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000)](https://powerbi.microsoft.com)
 
 ---
 
-## 🏆 GitHub Achievements
-![GitHub Foundation](https://img.shields.io/badge/-GitHub%20Foundation-181717?logo=github&logoColor=fff)
+## 💼 Work Experience
 
-![Profile views](https://komarev.com/ghpvc/?username=Badjedi04&color=blue&style=flat&label=Profile+views)
+### **IT Intern** at SEES, ODU  
+*May 2024 – Present*  
+- Developed automation scripts using **Python** and **PowerShell**.
+- Managed **AWS cloud services** and virtual machines.
+- Provided technical support and troubleshooting.
+
+### **Graduate Assistant** at SEES, ODU  
+*May 2023 – May 2024*  
+- Managed IT support tickets using **ServiceNow**.
+- Provided front-line user support and troubleshooting.
+
+### **Graduate Research Assistant** at ITS, ODU  
+*Aug 2022 – Apr 2023*  
+- Processed 1000+ Twitter data links using **Python** and APIs.
+- Built a webpage ranking system using **TF-IDF** and **PageRank**.
+
+### **Network Engineer** at Corporate InfoTech Pvt. Ltd.  
+*Mar 2015 – Jul 2022*  
+- Developed automation scripts in **Python** and **Bash**.
+- Configured firewalls and implemented network monitoring using **Grafana** and **Splunk**.
+
+---
+
+## 🏆 Awards
+
+- **Hampton Roads Datathon 2022**: Third place for **Wetlands and Protected Areas** project.
+- **Hampton Roads Datathon 2023**: Third place for **Hampton Roads Wellness Intersectionality Study**.
+
+---
 
 ## 📬 Get in Touch
 
